@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{98CD1603-D5A6-AA4C-7EC9-C9881EA86119}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StartGame.cs">
+    <Files>
+      <File FileName="Assets/Mizuki/script(mizuki)/ItemUsing.cs" Line="25" Column="36" IsPinned="True" />
+      <File FileName="Assets/Scripts/KintoreManager.cs" Line="364" Column="1" />
+      <File FileName="Assets/Scripts/KintoreText.cs" />
+      <File FileName="Assets/history/hukkin.txt" />
+      <File FileName="Assets/history/history.txt" />
+      <File FileName="Assets/Mizuki/script(mizuki)/PetShadowMoving.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mizuki/script(mizuki)/PetsMoving.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mizuki/script(mizuki)/PetStatusManager.cs" Line="83" Column="6" />
+      <File FileName="Assets/Mizuki/script(mizuki)/ShareController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mizuki/script(mizuki)/WeeklyGoalManager.cs" Line="72" Column="1" />
+      <File FileName="Assets/Mizuki/script(mizuki)/WeeklyReward.cs" Line="70" Column="9" />
+      <File FileName="Assets/Scripts/StartGame.cs" Line="24" Column="45" />
+      <File FileName="Assets/Mizuki/shop(mizuki)/NodeManager.cs" Line="99" Column="67" />
+      <File FileName="Assets/Games/RunGame/Scripts/RunPetStatusManager.cs" Line="71" Column="67" />
+      <File FileName="Assets/Games/RunGame/Scripts/RunResultDisp.cs" Line="75" Column="67" />
+      <File FileName="Assets/Games/ShootingGame/Scripts/result.cs" Line="76" Column="83" />
+      <File FileName="Assets/Games/ShootingGame/Scripts/ShootingPetStatusManager.cs" Line="10" Column="20" />
+      <File FileName="Assets/Games/BattleGame/Scripts/BattlePetStatusManager.cs" Line="9" Column="20" />
+      <File FileName="Assets/Games/BattleGame/Scripts/GameEndScript.cs" Line="18" Column="15" />
+      <File FileName="Assets/Scripts/AdvancedSetting.cs" Line="11" Column="27" />
+      <File FileName="Assets/Resources/DailyGameCount.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="animuscle-1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Games" expanded="True">
+                <Node name="BattleGame" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="RunGame" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="ShootingGame" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="history" expanded="True" />
+              <Node name="Mizuki" expanded="True">
+                <Node name="script(mizuki)" expanded="True" />
+                <Node name="shop(mizuki)" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="StartGame.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a9c254af-4de4-46b4-b7ca-f30b2490fbd4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

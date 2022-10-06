@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 00e0769d621e56a49a57863f56d24fe5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Button: {fileID: 8300000, guid: 768876ef01ca30043a665d0f8f9a5a29, type: 3}
+  - Sell: {fileID: 8300000, guid: 1117d5f41aab9fd4bb7edf12579a2fa9, type: 3}
+  - Grow: {fileID: 8300000, guid: 228a414c02aae104093ef692ae2bae7d, type: 3}
+  - Touch: {fileID: 8300000, guid: b2339d42d71ef8646b214a6c12e95d54, type: 3}
+  - PauseOut: {fileID: 8300000, guid: 2fc58d986242aa845b0c76cfcba21fcc, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
